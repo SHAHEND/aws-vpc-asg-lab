@@ -32,6 +32,7 @@ Allowed SSH (port 22) to the public EC2 only from the private EC2's security gro
 
 
 ![Peering](screenshots/04-vpc-peering-active.png)
+![Architecture](architecture.png)
 
 
 
